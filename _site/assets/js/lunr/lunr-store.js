@@ -1,6 +1,6 @@
 var store = [,{
     "title": "Kivu Geophysics Project",
-    "excerpt":"During a large eruption at Nyrigongo volcano in the eastern Democratic Repobulic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "http://localhost:4000/index.html"
+    "excerpt":"During a large eruption at Nyiragongo volcano in the eastern Democratic Republic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "http://localhost:4000/index.html"
   },{
     "title": null,
     "excerpt":"var idx = lunr(function () { this.field('title') this.field('excerpt') this.field('categories') this.field('tags') this.ref('id') this.pipeline.remove(lunr.trimmer) for (var item in store) { this.add({ title: store[item].title, excerpt: store[item].excerpt, categories: store[item].categories, tags: store[item].tags, id: item }) } }); $(document).ready(function() { $('input#search').on('keyup', function () { var resultdiv = $('#results'); var query = $(this).val().toLowerCase(); var result = idx.query(function...","url": "http://localhost:4000/assets/js/lunr/lunr-en.js"

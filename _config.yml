@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Kivu Geophysics"
 title_separator          : "-"
-subtitle                 : "An NSF-funded effort to image and understand transient tectonic rifting behavior" # site tagline that appears below site title in masthead
+subtitle                 : "An NSF-funded collaborative research project"
 name                     : "Andrew Newman"
 description              : "Professional website for research, education, and community activities related to Andrew Newman's research group's efforts towards understanding Earth processes associated with geologic hazards."
 url                      : "https://avnewman.github.io/KIVU"
@@ -84,7 +84,7 @@ twitter:
   username               : "Bent_Earth"
 mastodon:
   username               : "@Bent_Earth@mstdn.social"
-og_image                 : /assets/images/PacificProgram2020-TongariroAlpineCrossing-20200117_132709_small.jpg # Open Graph/Twitter default site image
+og_image                 : /assets/images/20220803_105252.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
