@@ -1,4 +1,7 @@
 var store = [,{
+    "title": "Kivu Geophysics Project",
+    "excerpt":"We research and educate around fundamental earth processes that drive some geologic hazards. Our primary focus is on earthquake and volcanic behavior as observed by ground shaking and ground deformation Crew Find people working within the group Learn more Research Follow for links to a number of our ongoing and...","url": "http://localhost:4000/index.html"
+  },{
     "title": null,
     "excerpt":"var idx = lunr(function () { this.field('title') this.field('excerpt') this.field('categories') this.field('tags') this.ref('id') this.pipeline.remove(lunr.trimmer) for (var item in store) { this.add({ title: store[item].title, excerpt: store[item].excerpt, categories: store[item].categories, tags: store[item].tags, id: item }) } }); $(document).ready(function() { $('input#search').on('keyup', function () { var resultdiv = $('#results'); var query = $(this).val().toLowerCase(); var result = idx.query(function...","url": "http://localhost:4000/assets/js/lunr/lunr-en.js"
   },{
@@ -7,9 +10,6 @@ var store = [,{
   },{
     "title": null,
     "excerpt":"var store = [ {%- for c in site.collections -%} {%- if forloop.last -%} {%- assign l = true -%} {%- endif -%} {%- assign docs = c.docs | where_exp:'doc','doc.search != false' -%} {%- for doc in docs -%} {%- if doc.header.teaser -%} {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture...","url": "http://localhost:4000/assets/js/lunr/lunr-store.js"
-  },{
-    "title": "Website for the Kivu Geophysics project",
-    "excerpt":"# Website for the Kivu Geophysics project ","url": "http://localhost:4000/"
   },{
     "title": null,
     "excerpt":"{% if page.xsl %}{% endif %}Jekyll{{ site.time | date_to_xmlschema }}{{ page.url | absolute_url | xml_escape }}{% assign title = site.title | default: site.name %}{% if page.collection != \"posts\" %}{% assign collection = page.collection | capitalize %}{% assign title = title | append: \" | \" | append: collection %}{% endif...","url": "http://localhost:4000/feed.xml"
