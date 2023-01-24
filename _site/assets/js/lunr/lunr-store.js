@@ -1,6 +1,6 @@
 var store = [,{
     "title": "About: Kivu Project",
-    "excerpt":"Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone On 22 May 2021, a very large and destructive volcanic eruption occurred along the southern flank of Mount Nyiragongo in the Democratic Republic of Congo (DRC), killing at least 30 people and causing substantial threat and damage near and...","url": "http://localhost:4000/about/"
+    "excerpt":"NSF funded research, supported through grants to: Georgia Tech Penn State Tulane University Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone On 22 May 2021, a very large and destructive volcanic eruption occurred along the southern flank of Mount Nyiragongo in the Democratic Republic of Congo (DRC),...","url": "http://localhost:4000/about/"
   },{
     "title": "Collaborations and International Connections",
     "excerpt":"Collaborations and International Connections  associated with the Kivu Geophysics Project   More to come soon.  ","url": "http://localhost:4000/connections/"
