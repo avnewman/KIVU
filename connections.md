@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Collaborations and International Connections"
-permalink: /connections
+permalink: /connections/
 #header:
 #   image:  /assets/images/20220803_105252.jpg
 ---
