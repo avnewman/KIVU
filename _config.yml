@@ -90,10 +90,6 @@ og_image                 : /assets/images/20220803_105252.jpg
 social:
   type                   : Organization # Person or Organization (defaults to Person)
 #  name                   : "Andrew Newman" # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-  - "https://twitter.com/Bent_Earth"
-  - "https://mstdn.social/@Bent_Earth"
-  - "https://www.linkedin.com/in/andrew-newman-6811a2124/"
  
 # Analytics
 analytics:

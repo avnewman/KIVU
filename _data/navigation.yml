@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "About"
+    url: about/
+    description: "Project Summary"
+  - title: "Field Activities"
+    url: field/
+    description: "on-the-ground research"
+  - title: "Products"
+    url: products/
+    description: "Research results and products"
+  - title: "Connections"
+    url: connections/
+    description: "Collaborations and training in and around Rwanda"
+
+sidebar:
+  nav: "main"
