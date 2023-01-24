@@ -6,7 +6,7 @@ var store = [,{
     "excerpt":"Collaborations and International Connections  associated with the Kivu Geophysics Project   More to come soon.  ","url": "http://localhost:4000/connections/"
   },{
     "title": "Field Activities",
-    "excerpt":"Field Activities associated with the Kivu Geophysics Project   More to come soon.  ","url": "http://localhost:4000/field/"
+    "excerpt":"Field Activities associated with the Kivu Geophysics Project   More to come soon.   Field photos from the 2022 GNSS deployment  ","url": "http://localhost:4000/field/"
   },{
     "title": "Kivu Geophysics Project",
     "excerpt":"During a large eruption at Nyiragongo volcano in the eastern Democratic Republic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "http://localhost:4000/index.html"
