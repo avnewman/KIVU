@@ -12,7 +12,7 @@ var store = [,{
     "excerpt":"During a large eruption at Nyiragongo volcano in the eastern Democratic Republic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "http://localhost:4000/index.html"
   },{
     "title": "Research results and Products",
-    "excerpt":"Research Products and results from the Kivu Geophysics Project   More to come soon.  ","url": "http://localhost:4000/products/"
+    "excerpt":"Proposed Geophysical Network At the right is the originally proposed seismic, geodetic, and magnetotelluric installation plan as it was proposed. Proposed sites are shown atop of a black-and-white SAR Interferogram highlighting the deformation driven by a significant rifting event between the Nyairigongo Volcano and Lake Kivu, and crossing between populated...","url": "http://localhost:4000/products/"
   },{
     "title": null,
     "excerpt":"var idx = lunr(function () { this.field('title') this.field('excerpt') this.field('categories') this.field('tags') this.ref('id') this.pipeline.remove(lunr.trimmer) for (var item in store) { this.add({ title: store[item].title, excerpt: store[item].excerpt, categories: store[item].categories, tags: store[item].tags, id: item }) } }); $(document).ready(function() { $('input#search').on('keyup', function () { var resultdiv = $('#results'); var query = $(this).val().toLowerCase(); var result = idx.query(function...","url": "http://localhost:4000/assets/js/lunr/lunr-en.js"
