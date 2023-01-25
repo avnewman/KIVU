@@ -14,7 +14,7 @@ permalink: /about/
 }
 </style>
 
-<img src="https://avnewman.github.io/KIVU/assets/images/logos/NSF_4Color_vector_Logo.png" alt="NSF Logo" width="100" >
+<img src="/KIVU/assets/images/logos/NSF_4Color_vector_Logo.png" alt="NSF Logo" width="100" >
 **NSF funded research, supported through grants to:**
 - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150965">Georgia Tech</a>
 - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2151005">Penn State</a>
