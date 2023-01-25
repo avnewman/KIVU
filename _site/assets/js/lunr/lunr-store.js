@@ -1,6 +1,6 @@
 var store = [,{
     "title": "About: Kivu Project",
-    "excerpt":"NSF funded research, supported through grants to: Georgia Tech Penn State Tulane University Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone On 22 May 2021, a very large and destructive volcanic eruption occurred along the southern flank of Mount Nyiragongo in the Democratic Republic of Congo (DRC),...","url": "http://localhost:4000/KIVU/about/"
+    "excerpt":"NSF funded research The Grant titled “Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone” supports a three-year effort, which started in January 2022. The PI Team includes: Andrew Newman and Samer Naif at Georgia Tech (NSF Grant: 2150965) Christelle Wauthier at Penn State (NSF Grant:...","url": "http://localhost:4000/KIVU/about/"
   },{
     "title": "Collaborations and International Connections",
     "excerpt":"Collaborations and International Connections  associated with the Kivu Geophysics Project   More to come soon.  ","url": "http://localhost:4000/KIVU/connections/"
