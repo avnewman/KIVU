@@ -2,6 +2,8 @@
 layout: single
 title: "Collaborations and International Connections"
 permalink: /connections/
+sidebar:
+  nav: "main"
 #header:
 #   image:  /assets/images/20220803_105252.jpg
 ---

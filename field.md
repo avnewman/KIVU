@@ -2,10 +2,11 @@
 layout: single
 title: "Field Activities"
 permalink: /field/
+sidebar:
+  nav: "main"
 #header:
 #   image:  /assets/images/20220803_105252.jpg
 ---
-
 
 ## Field Activities associated with the Kivu Geophysics Project
 
