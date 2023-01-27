@@ -3,11 +3,13 @@ layout: single
 title: "About: Kivu Project"
 classes: wide
 permalink: /about/
+author_profile: true
+sidebar:
+  nav: "main"
 #header:
 #   image:  /assets/images/20220803_105252.jpg
 
 ---
-
 <style>  
 .floatLeft150 {
     width: 150px;
@@ -22,15 +24,24 @@ permalink: /about/
 </style>
 
 ## NSF funded research
+<img src="/KIVU/assets/images/logos/NSF_4Color_vector_Logo.png" alt="NSF Logo" class=floatLeft150 >
 The Grant titled "*Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone*" supports a three-year effort, which started in January 2022.
 
-The PI Team includes:
+### The PI Team includes:
+- [Andrew Newman](https://avnewman.github.io) and [Samer Naif](https://eas.gatech.edu/people/naif-dr-samer) at Georgia Tech ([NSF Grant: 2150965](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150965))
+- [Christelle Wauthier](http://personal.psu.edu/cuw25/website/index.html#/Home) at Penn State ([NSF Grant: 2151005](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2151005))
+- [Cynthia Ebinger](https://sse.tulane.edu/eens/faculty/ebinger) at Tulane University ([NSF Grant: 2151594](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2151594))
 
-<img src="/KIVU/assets/images/logos/NSF_4Color_vector_Logo.png" alt="NSF Logo" class=floatLeft150 >
-- Andrew Newman and Samer Naif at Georgia Tech ([NSF Grant: 2150965](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150965))
-- Christelle Wauthier at Penn State ([NSF Grant: 2151005](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2151005))
-- Cynthia Ebinger at Tulane University ([NSF Grant: 2151594](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2151594))
+### Students, Postdocs:
+- [Derrick Murekezi](https://www.linkedin.com/in/derrickmurekezi/) at Georgia Tech
+-  (+ others that need to be added)
 
+### Additional Collaborators:
+- [East African Institute for Fundamental Research (EAIFR)](https://eaifr.org/)
+- [Rwanda Environmental Management Agency (REMA)](https://www.rema.gov.rw/)
+- [Rwanda Mines, Petroleum and Gas Board (RMB)](https://www.rmb.gov.rw/)
+- [Goma Volcano Observatory (GVO)](https://wovo.iavceivolcano.org/observatories/12-observatories/31-goma-volcanological-observatory-observatoire-volcanologique-de-goma-lwiro)
+- [EarthScope Consortium](https://www.earthscope.org)
 
 ## Proposal Summary
 
