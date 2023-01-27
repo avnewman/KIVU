@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Research results and Products - Kivu Geophysics</title>
+<!-- begin _includes/seo.html --><title>GNSS daily time series results - Kivu Geophysics</title>
 <meta name="description" content="Professional website for research, education, and community activities related to Andrew Newman’s research group’s efforts towards understanding Earth processes associated with geologic hazards.">
 
 
@@ -20,8 +20,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Kivu Geophysics">
-<meta property="og:title" content="Research results and Products">
-<meta property="og:url" content="http://localhost:4000/KIVU/products/">
+<meta property="og:title" content="GNSS daily time series results">
+<meta property="og:url" content="http://localhost:4000/KIVU/products/GNSS">
 
 
   <meta property="og:description" content="Professional website for research, education, and community activities related to Andrew Newman’s research group’s efforts towards understanding Earth processes associated with geologic hazards.">
@@ -33,9 +33,9 @@
 
 
   <meta name="twitter:site" content="@Bent_Earth">
-  <meta name="twitter:title" content="Research results and Products">
+  <meta name="twitter:title" content="GNSS daily time series results">
   <meta name="twitter:description" content="Professional website for research, education, and community activities related to Andrew Newman’s research group’s efforts towards understanding Earth processes associated with geologic hazards.">
-  <meta name="twitter:url" content="http://localhost:4000/KIVU/products/">
+  <meta name="twitter:url" content="http://localhost:4000/KIVU/products/GNSS">
 
   
     <meta name="twitter:card" content="summary">
@@ -53,7 +53,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/KIVU/products/">
+<link rel="canonical" href="http://localhost:4000/KIVU/products/GNSS">
 
 
 
@@ -320,7 +320,7 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Research results and Products">
+    <meta itemprop="headline" content="GNSS daily time series results">
     
     
     
@@ -329,7 +329,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/KIVU/products/" class="u-url" itemprop="url">Research results and Products
+            <a href="http://localhost:4000/KIVU/products/GNSS" class="u-url" itemprop="url">GNSS daily time series results
 </a>
           </h1>
           
@@ -341,19 +341,62 @@
       <section class="page__content e-content" itemprop="text">
         
         <style>  
-.floatRight500 {
-    width: 500px;
-    padding: 5px 5px 20px 20px;
+.floatauto  {
+    width: 23%;
+    padding: 5px 5px 5px 5px;
+    overflow: auto;
+    border-radius: 5%;
+}
+.Bigbox {
+    background-color:#bdb;
+    width: 80%;
+    padding: 5px 5px 5px 5px;
+    float: left;
+    overflow: auto;
+    border-radius: 15px;
+}
+.box {
+    background-color:#bdb;
+    width: 33.33%;
+    padding: 5px 5px 5px 5px;
     float: right;
+    overflow: auto;
+    border-radius: 15px;
+}
+.clear::after {
+    content:"";
+    clear:both;
+    display:table;
 }
 </style>
 
-<h2 id="proposed-geophysical-network">Proposed Geophysical Network</h2>
-<p><img src="/KIVU/assets/images/Prop_map_sm.png" alt="Network Plan" class="floatRight500" />
-At the right is the originally proposed seismic, geodetic, and magnetotelluric installation plan as it was proposed.  Proposed sites are shown atop of a black-and-white SAR Interferogram highlighting the deformation driven by a significant rifting event between the Nyairigongo Volcano and Lake Kivu, and crossing between populated areas in the DRC and Rwanda.</p>
+<p>As of August 2022, the project is operating 7 continuous GNSS stations along the Eastern side of the rift system. The sites are: BNZA, BYAH, KANZ, NYBA, RUBO, IWAW, and KMBR.  All data are publicly available through the GAGE facility managed by the <a href="https://www.earthscope.org">EarthScope Consortium</a> and processed by routinely by at least two groups.  All GNSS data for this experiment are independently processed into daily solutions by two groups.</p>
 
-<h2 id="gnss-data-products">GNSS data products</h2>
-<p>Access to raw and processed results are available <a href="GNSS">here</a></p>
+<ol>
+  <li>Time series including rapid (within 2 days) and final products (available within 2 weeks) are available on each station’s <a href="https://www.unavco.org/instrumentation/networks/status/pi/overview/IWAW">status page</a> and processed by Central Washington University. Individual stations are searchable using their above name. Also avialable at the above site are the raw RINEX data files.</li>
+  <li>Time series for only final products processed are available at the <a href="http://geodesy.unr.edu/PlugNPlayPortal.php">University of Nevada-Reno</a>.</li>
+  <li>High-Rate GNSS data, primarily useful for identifying data availability are available through the <a href="http://www.geodesy.cwu.edu/realtime/data/">Central Washington GPS Cockpit portal</a> and are searchable using their above name.</li>
+  <li>Time series and rates are further analyzed by Georgia Tech and are shown below.</li>
+</ol>
+
+<h2 id="the-gnss-velocities">The GNSS Velocities:</h2>
+<p>We utilize these results to calculate station velocities and displacement, and will use them for subsequent characterization of source processes.  Results are updated daily.</p>
+
+<h3 id="daily-time-series">Daily time series</h3>
+<div class="clear">
+   <div class="box"> <b>BNZA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BNZA_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BNZA_TS.png" alt="BNZA" /></a></div>
+   <div class="box"> <b>BYAH</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BYAH_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BYAH_TS.png" alt="BYAH" /></a></div>
+   <div class="box"> <b>KANZ</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KANZ_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KANZ_TS.png" alt="KANZ" /></a></div>
+   <div class="box"> <b>NYBA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/NYBA_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/NYBA_TS.png" alt="NYBA" /></a></div>
+   <div class="box"> <b>RUBO</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/RUBO_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/RUBO_TS.png" alt="RUBO" /></a></div>
+   <div class="box"> <b>IWAW</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/IWAW_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/IWAW_TS.png" alt="IWAW" /></a></div>
+   <div class="box"> <b>KMBR</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KMBR_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KMBR_TS.png" alt="KMBR" /></a></div>
+</div>
+
+<h3 id="velocity-map">Velocity Map</h3>
+<div class="clear">
+   <div class="Bigbox"> <b>Kivu GNSS Network</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KIVU_GNSS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KIVU_GNSS.png" alt="KIVU GNSS velocities" /></a></div>
+</div>
 
         
       </section>

@@ -1,4 +1,7 @@
 var store = [,{
+    "title": "GNSS daily time series results",
+    "excerpt":"As of August 2022, the project is operating 7 continuous GNSS stations along the Eastern side of the rift system. The sites are: BNZA, BYAH, KANZ, NYBA, RUBO, IWAW, and KMBR. All data are publicly available through the GAGE facility managed by the EarthScope Consortium and processed by routinely by...","url": "http://localhost:4000/KIVU/products/GNSS"
+  },{
     "title": "About: Kivu Project",
     "excerpt":"NSF funded research The Grant titled “Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone” supports a three-year effort, which started in January 2022. The PI Team includes: Andrew Newman and Samer Naif at Georgia Tech (NSF Grant: 2150965) Christelle Wauthier at Penn State (NSF Grant:...","url": "http://localhost:4000/KIVU/about/"
   },{

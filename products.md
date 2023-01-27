@@ -1,7 +1,11 @@
 ---
 layout: single
 title: "Research results and Products"
+classes: wide
 permalink: /products/
+author_profile: true
+sidebar:
+  nav: "main"
 #header:
 #   image:  /assets/images/Prop_map_sm.png
 ---
@@ -20,11 +24,4 @@ permalink: /products/
 At the right is the originally proposed seismic, geodetic, and magnetotelluric installation plan as it was proposed.  Proposed sites are shown atop of a black-and-white SAR Interferogram highlighting the deformation driven by a significant rifting event between the Nyairigongo Volcano and Lake Kivu, and crossing between populated areas in the DRC and Rwanda.
 
 ## GNSS data products
-
-As of August 2022, the project is operating 7 continuous GNSS stations along the Eastern side of the rift system. The 7 sites are: BNZA, BYAH, KANZ, NYBA, RUBO, IWAW, and KMBR.
-
-All GNSS data for this experiment are independently processed into daily solutions by two groups.
- 1. Time series including rapid (within 2 days) and final products (available within 2 weeks) are available at the [EarthScope Consortium](https://www.unavco.org/instrumentation/networks/status/pi/overview/IWAW) and processed by Central Washington University. Individual stations are searchable using their above name. Also avialable at the above site are the raw RINEX data files.
- 2. Time series for only final products processed are available at the [University of Nevada-Reno](http://geodesy.unr.edu/PlugNPlayPortal.php).
- 1. High-Rate GNSS data, primarily useful for identifying data availability are available through the [Central Washington GPS Cockpit portal](http://www.geodesy.cwu.edu/realtime/data/) and are searchable using their above name.
- 1. Time series and rates are further analyzed by Georgia Tech and will be available here shortly.
+Access to raw and processed results are available [here](GNSS)
