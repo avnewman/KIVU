@@ -54,18 +54,18 @@ We utilize these results to calculate station velocities and displacement, and w
 ### Daily time series
 Below are daily positions and errors showing in a global reference frame (ITRF14) and includes the contriubtions of local plate motions.
 <div class="clear">
-   <div class="box"> <b>BNZA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BNZA_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BNZA_TS_sm.png" alt="BNZA" ></a></div>
-   <div class="box"> <b>BYAH</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BYAH_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/BYAH_TS_sm.png" alt="BYAH" ></a></div>
-   <div class="box"> <b>KANZ</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KANZ_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KANZ_TS_sm.png" alt="KANZ" ></a></div>
-   <div class="box"> <b>NYBA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/NYBA_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/NYBA_TS_sm.png" alt="NYBA" ></a></div>
-   <div class="box"> <b>RUBO</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/RUBO_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/RUBO_TS_sm.png" alt="RUBO" ></a></div>
-   <div class="box"> <b>IWAW</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/IWAW_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/IWAW_TS_sm.png" alt="IWAW" ></a></div>
-   <div class="box"> <b>KMBR</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KMBR_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KMBR_TS_sm.png" alt="KMBR" ></a></div>
+   <div class="box"> <b>BNZA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/BNZA_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/BNZA_TS_sm.png" alt="BNZA" ></a></div>
+   <div class="box"> <b>BYAH</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/BYAH_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/BYAH_TS_sm.png" alt="BYAH" ></a></div>
+   <div class="box"> <b>KANZ</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/KANZ_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/KANZ_TS_sm.png" alt="KANZ" ></a></div>
+   <div class="box"> <b>NYBA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/NYBA_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/NYBA_TS_sm.png" alt="NYBA" ></a></div>
+   <div class="box"> <b>RUBO</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/RUBO_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/RUBO_TS_sm.png" alt="RUBO" ></a></div>
+   <div class="box"> <b>IWAW</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/IWAW_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/IWAW_TS_sm.png" alt="IWAW" ></a></div>
+   <div class="box"> <b>KMBR</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/KMBR_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/KMBR_TS_sm.png" alt="KMBR" ></a></div>
 </div>
 
 
 ### Velocity Map
 After removing the local plate motions (here, we remove predicted motions for the Victorian sub-plate between the eastern and western branches of the East African Rift System).  
 <div class="clear">
-   <div class="Bigbox"> <b>Kivu GNSS Network</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KIVU_GNSS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/KIVU_GNSS_sm.png" alt="KIVU GNSS velocities"></a></div>
+   <div class="Bigbox"> <b>Kivu GNSS Network</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_sm.png" alt="KIVU GNSS velocities"></a></div>
 </div>
