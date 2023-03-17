@@ -63,9 +63,19 @@ Below are daily positions and errors showing in a global reference frame (ITRF14
    <div class="box"> <b>KMBR</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/KMBR_TS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/KMBR_TS_sm.png" alt="KMBR" ></a></div>
 </div>
 
+ **Note** that the image files may not show up properly in Google Chrome.  You can find them as well [here](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/). 
+ {: .notice--info}
 
 ### Velocity Map
 After removing the local plate motions (here, we remove predicted motions for the Victorian sub-plate between the eastern and western branches of the East African Rift System).  
 <div class="clear">
    <div class="Bigbox"> <b>Kivu GNSS Network</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_sm.png" alt="KIVU GNSS velocities"></a></div>
 </div>
+ **Note** that the above image may not show up properly in Google Chrome.  You can find it [here](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png). 
+ {: .notice--info}
+
+ <!-- To fix the above issue with hotlinked images not showing up on Github, I may need to find a way to directly include figures in this repo.  May be done using github submodules. 
+ It looks like I will need to turn my repo public before including the results in any github pages.
+ https://stackoverflow.com/questions/37638034/private-folder-submodule-in-a-public-repo
+ A good overview on how to make submodules work is here: https://github.blog/2016-02-01-working-with-submodules/
+ -->
