@@ -5,6 +5,12 @@ var store = [,{
     "title": "InSAR results",
     "excerpt":"Results from InSAR data analysis   coming soon…  ","url": "http://localhost:4000/KIVU/products/InSAR"
   },{
+    "title": "Magnetotelluric results",
+    "excerpt":"Results from Magnetotelluric work   Field work is scheduled for summer 2024.  Early results will be forthcoming  ","url": "http://localhost:4000/KIVU/products/MT"
+  },{
+    "title": "Seismological results",
+    "excerpt":"Results from Seismological work   comming soon…  ","url": "http://localhost:4000/KIVU/products/Seismic"
+  },{
     "title": "About: Kivu Project",
     "excerpt":"NSF funded research The Grant titled “Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone” supports a three-year effort, which started in January 2022. The PI Team includes: Andrew Newman and Samer Naif at Georgia Tech (NSF Grant: 2150965) Christelle Wauthier at Penn State (NSF Grant:...","url": "http://localhost:4000/KIVU/about/"
   },{

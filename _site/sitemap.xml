@@ -7,6 +7,12 @@
 <loc>http://localhost:4000/KIVU/products/InSAR</loc>
 </url>
 <url>
+<loc>http://localhost:4000/KIVU/products/MT</loc>
+</url>
+<url>
+<loc>http://localhost:4000/KIVU/products/Seismic</loc>
+</url>
+<url>
 <loc>http://localhost:4000/KIVU/about/</loc>
 </url>
 <url>
