@@ -71,8 +71,14 @@ After removing the local plate motions (here, we remove predicted motions for th
 <div class="clear">
    <div class="Bigbox"> <b>Kivu GNSS Network</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_sm.png" alt="KIVU GNSS velocities"></a></div>
 </div>
- **Note** that the above image may not show up properly in Google Chrome.  You can find it [here](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png). 
+ **Note** that the above image may not show up properly in Google Chrome.  You can find it [here](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_sm.png). 
  {: .notice--info}
+
+### Common-mode solutions
+An alternative approach to evaluating regional deformation is to remove highly-correlated signals in the time series across a local environment.  
+While this will negatively affect evaluation of any large-scale deformation that affects most or all of the network, it's useful for identifying smaller rates of deformation.
+Work to refine this method is ongoing.
+Links to individual common-mode [daily solutions](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/) and a [velocity map](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_common_sm.png) are considered preliminary, but shared for preliminary interpretation.
 
  <!-- To fix the above issue with hotlinked images not showing up on Github, I may need to find a way to directly include figures in this repo.  May be done using github submodules. 
  It looks like I will need to turn my repo public before including the results in any github pages.
