@@ -11,8 +11,8 @@ sidebar:
 
 ---
 <style>  
-.floatLeft150 {
-    width: 150px;
+.floatLeft10 {
+    width: 10%;
     padding: 5px 30px 20px 5px;
     float: left;
 }
@@ -24,8 +24,10 @@ sidebar:
 </style>
 
 ## NSF funded research
-<img src="/KIVU/assets/images/logos/NSF_4Color_vector_Logo.png" alt="NSF Logo" class=floatLeft150 >
+<img src="/KIVU/assets/images/logos/NSF_4Color_vector_Logo.png" alt="NSF Logo" class=floatLeft10 >
 The Grant titled "*Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone*" supports a three-year effort, which started in January 2022.
+
+
 
 ### The PI Team includes:
 - [Andrew Newman](https://avnewman.github.io) and [Samer Naif](https://eas.gatech.edu/people/naif-dr-samer) at Georgia Tech ([NSF Grant: 2150965](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150965))
@@ -34,7 +36,9 @@ The Grant titled "*Collaborative Research: Constraining transient magma intrusio
 
 ### Students, Postdocs:
 - [Derrick Murekezi](https://www.linkedin.com/in/derrickmurekezi/) at Georgia Tech
--  (+ others that need to be added)
+- [Yinchu Li](https://www.linkedin.com/in/yinchu-li-a12638170/) at Georgia Tech
+- [Abhinav Pratap Singh](https://www.linkedin.com/in/abhinav-pratap-singh/) at Georgia Tech
+- [Cirus Kalugana](https://www.linkedin.com/in/cirus-kalugana-0443b31b8/) at Tulane University
 
 ### Additional Collaborators:
 - [East African Institute for Fundamental Research (EAIFR)](https://eaifr.org/)
