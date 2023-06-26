@@ -27,7 +27,7 @@ sidebar:
 }
 .box {
     background-color:#bdb;
-    width: 33.33%;
+    width: 25%;
     padding: 5px 5px 5px 5px;
     float: right;
     overflow: auto;
