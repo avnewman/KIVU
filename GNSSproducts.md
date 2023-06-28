@@ -80,6 +80,9 @@ Daily solutions shown in a global reference frame are available here.
 * [Velocity map](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png)
 * [Daily solutions](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/)  
 
+
+<img src="https://raw.githubusercontent.com/avnewman/pyGMT-Tutorial/main/Kivu_DEM.png">
+
  <!-- To fix the above issue with hotlinked images not showing up on Github, I may need to find a way to directly include figures in this repo.  May be done using github submodules. 
  It looks like I will need to turn my repo public before including the results in any github pages.
  https://stackoverflow.com/questions/37638034/private-folder-submodule-in-a-public-repo
