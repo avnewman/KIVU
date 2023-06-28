@@ -81,6 +81,8 @@ Daily solutions shown in a global reference frame are available here.
 * [Daily solutions](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/)  
 
 
+### Testing below
+(I am testing mechanisms to better incorporate images into browsers like Chrome that are not supporting the hotlinked images above)
 <img src="https://raw.githubusercontent.com/avnewman/pyGMT-Tutorial/main/Kivu_DEM.png">
 
  <!-- To fix the above issue with hotlinked images not showing up on Github, I may need to find a way to directly include figures in this repo.  May be done using github submodules. 
