@@ -54,39 +54,25 @@ We utilize these results to calculate station velocities and displacement, and w
 ### Daily time series
 Below are daily positions and errors showing in a local reference frame determined removing the average daily positions from the 5 eastern-most stations.
 <div class="clear">
-   <div class="box"> <b>BNZA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/BNZA_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/BNZA_TS_Common_sm.png" alt="BNZA" ></a></div>
-   <div class="box"> <b>BYAH</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/BYAH_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/BYAH_TS_Common_sm.png" alt="BYAH" ></a></div>
-   <div class="box"> <b>KANZ</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/KANZ_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/KANZ_TS_Common_sm.png" alt="KANZ" ></a></div>
-   <div class="box"> <b>NYBA</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/NYBA_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/NYBA_TS_Common_sm.png" alt="NYBA" ></a></div>
-   <div class="box"> <b>RUBO</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/RUBO_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/RUBO_TS_Common_sm.png" alt="RUBO" ></a></div>
-   <div class="box"> <b>IWAW</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/IWAW_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/IWAW_TS_Common_sm.png" alt="IWAW" ></a></div>
-   <div class="box"> <b>KMBR</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/KMBR_TS_Common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/Common/small/KMBR_TS_Common_sm.png" alt="KMBR" ></a></div>
+   <div class="box"> <b>BNZA</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/BNZA_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/BNZA_TS_Common_sm.png" alt="BNZA" ></a></div>
+   <div class="box"> <b>BYAH</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/BYAH_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/BYAH_TS_Common_sm.png" alt="BYAH" ></a></div>
+   <div class="box"> <b>KANZ</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/KANZ_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/KANZ_TS_Common_sm.png" alt="KANZ" ></a></div>
+   <div class="box"> <b>NYBA</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/NYBA_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/NYBA_TS_Common_sm.png" alt="NYBA" ></a></div>
+   <div class="box"> <b>RUBO</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/RUBO_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/RUBO_TS_Common_sm.png" alt="RUBO" ></a></div>
+   <div class="box"> <b>IWAW</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/IWAW_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/IWAW_TS_Common_sm.png" alt="IWAW" ></a></div>
+   <div class="box"> <b>KMBR</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/KMBR_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/KMBR_TS_Common_sm.png" alt="KMBR" ></a></div>
 </div>
-
- **Note** that the image files may not show up properly in Google Chrome.  You can find them as well [here](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/). 
- {: .notice--info}
 
 ### Velocity Map
 Velocity map is shown after removing the daily position average from 5 eastern stations.
 <div class="clear">
-   <div class="Bigbox"> <b>Kivu GNSS Network</b><a href="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_common.png"><img src="http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_common.png" alt="KIVU GNSS velocities"></a></div>
+   <div class="Bigbox"> <b>Kivu GNSS Network</b>
+   <a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/KIVU_GNSS_common.png">
+   <img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/KIVU_GNSS_common_sm.png" alt="KIVU GNSS velocities"></a></div>
 </div>
- **Note** that the above image may not show up properly in Google Chrome.  You can find it [here](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS_sm.png). 
- {: .notice--info}
 
 ### Global reference frame solutions
 Daily solutions shown in a global reference frame are available here.  
 
-* [Velocity map](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/KIVU_GNSS.png)
-* [Daily solutions](http://geophysics.eas.gatech.edu/anewman/research/KivuGNSS/plots/TS/small/)  
-
-
-### Testing below
-(I am testing mechanisms to better incorporate images into browsers like Chrome that are not supporting the hotlinked images above)
-<img src="https://raw.githubusercontent.com/avnewman/pyGMT-Tutorial/main/Kivu_DEM.png">
-
- <!-- To fix the above issue with hotlinked images not showing up on Github, I may need to find a way to directly include figures in this repo.  May be done using github submodules. 
- It looks like I will need to turn my repo public before including the results in any github pages.
- https://stackoverflow.com/questions/37638034/private-folder-submodule-in-a-public-repo
- A good overview on how to make submodules work is here: https://github.blog/2016-02-01-working-with-submodules/
- -->
+* [Velocity map](https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/KIVU_GNSS_sm.png)
+* [Daily solutions](https://github.com/avnewman/KivuGNSS/tree/main/plots/TS/small)
