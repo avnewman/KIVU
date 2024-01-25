@@ -3,7 +3,7 @@ var store = [,{
     "excerpt":"As of August 2022, the project is operating 7 continuous GNSS stations along the Eastern side of the rift system. The sites are: BNZA, BYAH, KANZ, NYBA, RUBO, IWAW, and KMBR. All data are publicly available through the GAGE facility managed by the EarthScope Consortium and processed by routinely by...","url": "http://localhost:4000/KIVU/products/GNSS"
   },{
     "title": "InSAR results",
-    "excerpt":"Results from InSAR data analysis   coming soon…  ","url": "http://localhost:4000/KIVU/products/InSAR"
+    "excerpt":"Results from InSAR data analysis The dynamic interplay between rifting and magmatism in the Kivu Rift region has resulted in significant geological deformation. This intricate relationship is shown in several deformation features, including seismic activity, the eruptions of active volcanoes like Nyiragongo (2021) and Nyamuragira (2023), and transient ground movement...","url": "http://localhost:4000/KIVU/products/InSAR"
   },{
     "title": "Magnetotelluric results",
     "excerpt":"Results from Magnetotelluric work   Field work is scheduled for summer 2024.  Early results will be forthcoming  ","url": "http://localhost:4000/KIVU/products/MT"
