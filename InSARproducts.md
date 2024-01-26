@@ -19,12 +19,12 @@ Below are some of the early results from our InSAR time series analysis covering
 
 ### Map of deformation around Kivu during 2021 eruption and rifting event
 <figure>
-  <img src="/KIVU/assets/images/InSAR_ALOS_ascending_TS_map.png" alt="Map of deformation around Kivu during 2021 eruption and rifting event" />
-  <figcaption>Figure 1: Ground displacement towards (or away) from an ascending ALOS satellite between May 2020 and June 2021.  Up to 40 cm of movement, particularly in the region just north of Lake Kivu (white area in lower left side of plot) is primarily associated with rift opening between the DRC and Rwanda.</figcaption>
+  <img src="/KIVU/assets/images/InSAR_SENT_ascending_TS_map.png" alt="Map of deformation around Kivu during 2021 eruption and rifting event" />
+  <figcaption>Figure 1: Ground displacement towards (or away) from an ascending Sentinel satellite between May 2020 and June 2021.  Up to 40 cm of movement, particularly in the region just north of Lake Kivu (white area in lower left side of plot) is primarily associated with rift opening between the DRC and Rwanda.</figcaption>
 </figure>
 
 <figure>
 
-  <img src="/KIVU/assets/images/InSAR_ALOS_ascending_TS.png" alt="Time series of deformation around Kivu during 2021 eruption and rifting event" />
+  <img src="/KIVU/assets/images/InSAR_SENT_ascending_TS.png" alt="Time series of deformation around Kivu during 2021 eruption and rifting event" />
   <figcaption>Figure 2: Time series of deformation in the center of uplift (red triangle in Figure 1) over the period of observation.  The Nyriagongo volcanic eruption started 21 May, 2021 with little or no pre-event deformation observed.</figcaption>
 </figure>
