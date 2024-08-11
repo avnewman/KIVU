@@ -11,4 +11,4 @@ sidebar:
 
 ## Collaborations and International Connections  associated with the Kivu Geophysics Project
 
-More to come soon.
+* [2024 Geodetic Training for Volcanic and Tectonic Processes](connections/training)
