@@ -7,7 +7,16 @@ sidebar:
 header:
   image:  /assets/images/2024080_132728_sm.jpg
 ---
- 
+
+<style>  
+.floatCenter800 {
+    width: 800px;
+    padding: 5px 5px 20px 20px;
+    float: center;
+}
+</style>
+
+<img src="/KIVU/assets/images/2024080_132728_sm.jpg" alt="Group Photo" class="floatCenter800"> 
 ### Date: 
 8-9 August 2024, 9a-4pm
 ### Location:  
