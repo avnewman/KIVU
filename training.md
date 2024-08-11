@@ -54,7 +54,7 @@ For hands-on modeling, of geodetic data, it is helpful to bring a computer with:
   - 4:00  : Adjourn with end-of-day snack/coffee
 
 ### Links to presentations
-  - [Combined slides for Geodesy Overview, Details of GNSS, and Modeling Overview](KIVU/assets/files/Deformation_Methods_2024.pdf)
+  - [Combined slides for Geodesy Overview, Details of GNSS, and Modeling Overview](/KIVU/assets/files/Deformation_Methods_2024.pdf)
   - [Kivu Rift Project Overview with Geodetic Component]() (soon to be uploaded)
     - [Seismic Component]()
     - [Magnetotelluric Component]()
