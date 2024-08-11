@@ -5,7 +5,7 @@ permalink: /connections/training
 sidebar:
   nav: "main"
 header:
-  image:  /assets/images/2024080_132728_sm.jpg
+  image:  /assets/images/20240808_132728_sm.jpg
 ---
 
 <style>  
@@ -16,7 +16,7 @@ header:
 }
 </style>
 
-<img src="/KIVU/assets/images/2024080_132728_sm.jpg" alt="Group Photo" class="floatCenter800"> 
+<img src="/KIVU/assets/images/20240808_132728_sm.jpg" alt="Group Photo" class="floatCenter800"> 
 ### Date: 
 8-9 August 2024, 9a-4pm
 ### Location:  
