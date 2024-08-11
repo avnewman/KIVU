@@ -4,8 +4,8 @@ title: "Training in Geodetic Techniques for Volcano and Tectonics Monitoring"
 permalink: /connections/training
 sidebar:
   nav: "main"
-header:
-  image:  /assets/images/20240808_132728_sm.jpg
+#header:
+#  image:  /assets/images/20240808_132728_sm.jpg
 ---
 
 <style>  
@@ -15,8 +15,8 @@ header:
     float: center;
 }
 </style>
-
 <img src="/KIVU/assets/images/20240808_132728_sm.jpg" alt="Group Photo" class="floatCenter800"> 
+
 ### Date: 
 8-9 August 2024, 9a-4pm
 ### Location:  
