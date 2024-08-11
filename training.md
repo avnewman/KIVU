@@ -44,5 +44,5 @@ For hands-on modeling, of geodetic data, it is helpful to bring a computer with:
   - 3:30  : Discussion
   - 4:00  : Adjourn with end-of-day snack/coffee
 
- ### Links to presentations and resources
+### Links to presentations and resources
   - soon
