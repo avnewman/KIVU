@@ -23,6 +23,4 @@ Each of the first two years, while establishing geophysical sites in the field, 
 efforts with collaborators and students at EAIFR.  In the third year (2024) of the project, we were able to offer a dedicated
 2-day long exercise in [Geodetic Training for Volcanic and Tectonic Processes](training).  This activity was attended by
 approximately 20 people, including representatives from RMB, REMA, the Rwandan Space Agency ([RSA](https://space.gov.rw/)), 
-the Rwandan Ministry of Emergency Management ([MINEMA](https://www.minema.gov.rw/)), the Congolese Goma Volcano Observatory ([OVG/GVO]), and students from EAIFR.
-
-[REMA] 
+the Rwandan Ministry of Emergency Management ([MINEMA](https://www.minema.gov.rw/)), the Congolese Goma Volcano Observatory ([OVG-GVO](https://ovg-rdc.cd/)), and students from EAIFR.
