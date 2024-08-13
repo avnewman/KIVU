@@ -1,46 +1,31 @@
 var store = [,{
     "title": "GNSS daily time series results",
-    "excerpt":"As of August 2022, the project is operating 7 continuous GNSS stations along the Eastern side of the rift system. The sites are: BNZA, BYAH, KANZ, NYBA, RUBO, IWAW, and KMBR. All data are publicly available through the GAGE facility managed by the EarthScope Consortium and processed by routinely by...","url": "http://localhost:4000/KIVU/products/GNSS"
+    "excerpt":"As of August 2022, the project is operating 7 continuous GNSS stations along the Eastern side of the rift system. The sites are: BNZA, BYAH, KANZ, NYBA, RUBO, IWAW, and KMBR. All data are publicly available through the GAGE facility managed by the EarthScope Consortium and processed by routinely by...","url": "https://avnewman.github.io/KIVU/products/GNSS"
   },{
     "title": "InSAR results",
-    "excerpt":"Results from InSAR data analysis The dynamic interplay between rifting and magmatism in the Kivu Rift region has resulted in significant geological deformation. This intricate relationship is shown in several deformation features, including seismic activity, the eruptions of active volcanoes like Nyiragongo (2021) and Nyamuragira (2023), and transient ground movement...","url": "http://localhost:4000/KIVU/products/InSAR"
+    "excerpt":"Results from InSAR data analysis The dynamic interplay between rifting and magmatism in the Kivu Rift region has resulted in significant geological deformation. This intricate relationship is shown in several deformation features, including seismic activity, the eruptions of active volcanoes like Nyiragongo (2021) and Nyamuragira (2023), and transient ground movement...","url": "https://avnewman.github.io/KIVU/products/InSAR"
   },{
     "title": "Magnetotelluric results",
-    "excerpt":"Results from Magnetotelluric work   Field work is scheduled for summer 2024.  Early results will be forthcoming  ","url": "http://localhost:4000/KIVU/products/MT"
+    "excerpt":"Results from Magnetotelluric work   Field work is scheduled for summer 2024.  Early results will be forthcoming  ","url": "https://avnewman.github.io/KIVU/products/MT"
   },{
     "title": "Seismological results",
-    "excerpt":"Results from Seismological work   comming soon…  ","url": "http://localhost:4000/KIVU/products/Seismic"
+    "excerpt":"Results from Seismological work   comming soon…  ","url": "https://avnewman.github.io/KIVU/products/Seismic"
   },{
     "title": "About: Kivu Project",
-    "excerpt":"NSF funded research The Grant titled “Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone” supports a three-year effort, which started in January 2022. The PI Team includes: Andrew Newman and Samer Naif at Georgia Tech (NSF Grant: 2150965) Christelle Wauthier at Penn State (NSF Grant:...","url": "http://localhost:4000/KIVU/about/"
+    "excerpt":"NSF funded research The Grant titled “Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone” supports a three-year effort, which started in January 2022. The PI Team includes: Andrew Newman and Samer Naif at Georgia Tech (NSF Grant: 2150965) Christelle Wauthier at Penn State (NSF Grant:...","url": "https://avnewman.github.io/KIVU/about/"
   },{
     "title": "Collaborations and International Connections",
-    "excerpt":"Collaborations and International Connections  associated with the Kivu Geophysics Project   More to come soon.  ","url": "http://localhost:4000/KIVU/connections/"
+    "excerpt":"Collaborations and International Connections associated with the Kivu Geophysics Project Over the term of the project, the US-based field teams have very much enjoyed significant interactions and on-the-ground support from our colleagues at the Rwandan Mining Board (RMB) and the Rwandan Environmental Management Agency (REMA). Too, we’ve appreciated logistical support...","url": "https://avnewman.github.io/KIVU/connections/"
   },{
     "title": "Field Activities",
-    "excerpt":"Field Activities associated with the Kivu Geophysics Project   More to come soon.   Field photos from the 2022 GNSS deployment  ","url": "http://localhost:4000/KIVU/field/"
+    "excerpt":"Field Activities associated with the Kivu Geophysics Project   More to come soon.   Field photos from the 2022 GNSS deployment  ","url": "https://avnewman.github.io/KIVU/field/"
   },{
     "title": "Kivu Geophysics Project",
-    "excerpt":"During a large eruption at Nyiragongo volcano in the eastern Democratic Republic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "http://localhost:4000/KIVU/index.html"
+    "excerpt":"During a large eruption at Nyiragongo volcano in the eastern Democratic Republic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "https://avnewman.github.io/KIVU/index.html"
   },{
     "title": "Research results and Products",
-    "excerpt":"Proposed Geophysical Network At the right is the originally proposed seismic, geodetic, and magnetotelluric installation plan as it was proposed. Proposed sites are shown atop of a black-and-white SAR Interferogram highlighting the deformation driven by a significant rifting event between the Nyairigongo Volcano and Lake Kivu, and crossing between populated...","url": "http://localhost:4000/KIVU/products/"
+    "excerpt":"Proposed Geophysical Network At the right is the originally proposed seismic, geodetic, and magnetotelluric installation plan as it was proposed. Proposed sites are shown atop of a black-and-white SAR Interferogram highlighting the deformation driven by a significant rifting event between the Nyairigongo Volcano and Lake Kivu, and crossing between populated...","url": "https://avnewman.github.io/KIVU/products/"
   },{
-    "title": null,
-    "excerpt":"var idx = lunr(function () { this.field('title') this.field('excerpt') this.field('categories') this.field('tags') this.ref('id') this.pipeline.remove(lunr.trimmer) for (var item in store) { this.add({ title: store[item].title, excerpt: store[item].excerpt, categories: store[item].categories, tags: store[item].tags, id: item }) } }); $(document).ready(function() { $('input#search').on('keyup', function () { var resultdiv = $('#results'); var query = $(this).val().toLowerCase(); var result = idx.query(function...","url": "http://localhost:4000/KIVU/assets/js/lunr/lunr-en.js"
-  },{
-    "title": null,
-    "excerpt":"step1list = new Array(); step1list[\"ΦΑΓΙΑ\"] = \"ΦΑ\"; step1list[\"ΦΑΓΙΟΥ\"] = \"ΦΑ\"; step1list[\"ΦΑΓΙΩΝ\"] = \"ΦΑ\"; step1list[\"ΣΚΑΓΙΑ\"] = \"ΣΚΑ\"; step1list[\"ΣΚΑΓΙΟΥ\"] = \"ΣΚΑ\"; step1list[\"ΣΚΑΓΙΩΝ\"] = \"ΣΚΑ\"; step1list[\"ΟΛΟΓΙΟΥ\"] = \"ΟΛΟ\"; step1list[\"ΟΛΟΓΙΑ\"] = \"ΟΛΟ\"; step1list[\"ΟΛΟΓΙΩΝ\"] = \"ΟΛΟ\"; step1list[\"ΣΟΓΙΟΥ\"] = \"ΣΟ\"; step1list[\"ΣΟΓΙΑ\"] = \"ΣΟ\"; step1list[\"ΣΟΓΙΩΝ\"] = \"ΣΟ\"; step1list[\"ΤΑΤΟΓΙΑ\"] = \"ΤΑΤΟ\"; step1list[\"ΤΑΤΟΓΙΟΥ\"] = \"ΤΑΤΟ\"; step1list[\"ΤΑΤΟΓΙΩΝ\"] = \"ΤΑΤΟ\"; step1list[\"ΚΡΕΑΣ\"]...","url": "http://localhost:4000/KIVU/assets/js/lunr/lunr-gr.js"
-  },{
-    "title": null,
-    "excerpt":"var store = [ {%- for c in site.collections -%} {%- if forloop.last -%} {%- assign l = true -%} {%- endif -%} {%- assign docs = c.docs | where_exp:'doc','doc.search != false' -%} {%- for doc in docs -%} {%- if doc.header.teaser -%} {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture...","url": "http://localhost:4000/KIVU/assets/js/lunr/lunr-store.js"
-  },{
-    "title": null,
-    "excerpt":"{% if page.xsl %}{% endif %}Jekyll{{ site.time | date_to_xmlschema }}{{ page.url | absolute_url | xml_escape }}{% assign title = site.title | default: site.name %}{% if page.collection != \"posts\" %}{% assign collection = page.collection | capitalize %}{% assign title = title | append: \" | \" | append: collection %}{% endif...","url": "http://localhost:4000/KIVU/feed.xml"
-  },{
-    "title": null,
-    "excerpt":"{% if page.xsl %} {% endif %} {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}{% for collection in collections %}{% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}{% for doc in docs %} {{ doc.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if doc.last_modified_at or doc.date...","url": "http://localhost:4000/KIVU/sitemap.xml"
-  },{
-    "title": null,
-    "excerpt":"Sitemap: {{ \"sitemap.xml\" | absolute_url }} ","url": "http://localhost:4000/KIVU/robots.txt"
+    "title": "Training in Geodetic Techniques for Volcano and Tectonics Monitoring",
+    "excerpt":"Date: 8-9 August 2024, 9a-4pm Location: University of Rwanda (Nyarugenge Campus), Einstein Block, ICTP-EAIFR Conference Room (5th floor) Organizers: Derrick Murekezi and Andrew Newman, Georgia Institute of Technology Host: Catherine Mériaux, East African Institute for Fundamental Research Tech Recommendations: For hands-on modeling, of geodetic data, it is helpful to bring...","url": "https://avnewman.github.io/KIVU/connections/training"
   }]
