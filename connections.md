@@ -25,6 +25,8 @@ efforts with collaborators and students at EAIFR.  In the third year (2024) of t
 approximately 20 people, including representatives from RMB, REMA, the Rwandan Space Agency ([RSA](https://space.gov.rw/)), 
 the Rwandan Ministry of Emergency Management ([MINEMA](https://www.minema.gov.rw/)), the Congolese Goma Volcano Observatory ([OVG-GVO](https://ovg-rdc.cd/)), and students from EAIFR.
 
+A full list of project individuals and collaborators may also be found in the [About](/KIVU/about) section of the site.
+
 ### More information:
 - 2022: [Student Overview of new project with hands-on field training](2022training)
 - 2023: [Student Introduction to Kivu Project: Geodesy and Magnetotellurics](2023training)

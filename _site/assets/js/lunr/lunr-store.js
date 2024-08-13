@@ -27,7 +27,7 @@ var store = [,{
     "excerpt":"Collaborations and International Connections associated with the Kivu Geophysics Project Over the term of the project, the US-based field teams have very much enjoyed significant interactions and on-the-ground support from our colleagues at the Rwandan Mining Board (RMB) and the Rwandan Environmental Management Agency (REMA). Too, we’ve appreciated logistical support...","url": "http://localhost:4000/KIVU/connections/"
   },{
     "title": "Field Activities",
-    "excerpt":"Field Activities associated with the Kivu Geophysics Project   More to come soon.   Field photos from the 2022 GNSS deployment  ","url": "http://localhost:4000/KIVU/field/"
+    "excerpt":"Field Activities associated with the Kivu Geophysics Project 2022: Some field photos from the GNSS deployment Additional field photos are included with training activities: 2022: Student Overview of new project with hands-on field training 2023: Student Introduction to Kivu Project: Geodesy and Magnetotellurics 2024: Geodetic Training for Volcanic and Tectonic...","url": "http://localhost:4000/KIVU/field/"
   },{
     "title": "Kivu Geophysics Project",
     "excerpt":"During a large eruption at Nyiragongo volcano in the eastern Democratic Republic of Congo, a large rift opening event propagated several km southward toward and possibly below Lake Kivu. Field Activities Field activities for data collection Learn more Products Research results and products Learn more Connections Collaborations and training in...","url": "http://localhost:4000/KIVU/index.html"

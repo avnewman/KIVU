@@ -10,6 +10,8 @@ sidebar:
 
 ## Field Activities associated with the Kivu Geophysics Project
 
-More to come soon.
-
-[Field photos from the 2022 GNSS deployment](https://avnewman.github.io/field/Rwanda.html)
+- 2022: [Some field photos from the GNSS deployment](https://avnewman.github.io/field/Rwanda.html)
+- Additional field photos are included with training activities:
+  - 2022: [Student Overview of new project with hands-on field training](/KIVU/connections/2022training)
+  - 2023: [Student Introduction to Kivu Project: Geodesy and Magnetotellurics](/KIVU/connections/2023training)
+  - 2024: [Geodetic Training for Volcanic and Tectonic Processes](/KIVU/connections/2024training)
