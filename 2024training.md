@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Training in Geodetic Techniques for Volcano and Tectonics Monitoring"
-permalink: /connections/training
+permalink: /connections/2024training
 sidebar:
   nav: "main"
 #header:
@@ -9,13 +9,13 @@ sidebar:
 ---
 
 <style>  
-.floatCenter800 {
-    width: 800px;
+.floatCenter1000 {
+    width: 1000px;
     padding: 5px 5px 20px 20px;
     float: center;
 }
 </style>
-<img src="/KIVU/assets/images/20240808_132728_sm.jpg" alt="Group Photo" class="floatCenter800"> 
+<img src="/KIVU/assets/images/20240808_132728_sm.jpg" alt="Group Photo" class="floatCenter1000"> 
 
 ### Date: 
 8-9 August 2024, 9a-4pm
