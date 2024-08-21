@@ -1,0 +1,22 @@
+#coord geo
+#smooth 2d
+#surface free
+#kappa 2 10 100  10
+#kappa 2 150 500  8
+origin 0 0
+addnoise  eUe 0.003
+addnoise  eUn 0.004
+addnoise  eUv 0.008
+
+#greensfns  on
+#lsqlin  2000    1e-30                            # defaults are shown
+project     on                                  # get geographic projection of fault and point data (alt. can run GTdef_project in matlab)
+
+#                  Fault_start   Fault_end    Fault_depth        Displacement    [---Inversion_ranges-----------]  Num_patches
+#fault type name   lon1   lat1   lon2   lat2   z1  z2      dip    ss  ds  ts     ss0  ssX    ds0  dsX    ts0  tsX   Nd   Ns
+fault   2   Kivu   29.27  -1.65  29.27  -1.85  0   10000   30     1   0   1      0    0      0    0      0    0     10   20
+# above is a ficticious fault that has 1 m of opening and left-lateral strike-slip motion
+# Forward Model with a grid of 'GNSS' stations
+#grid name  Erot Nrot lon1  lat1 lon2  lat2         Ne  Nn
+grid  KivuGrid  0    0    28.96 -2.05   29.57 -1.45     15  15   # Roughly every 4km 
+# grid predicts deformation across a region of 'synthetic sites' with noise added by the 'addnoise' parameters as described above

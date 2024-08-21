@@ -26,6 +26,9 @@ Derrick Murekezi and Andrew Newman, Georgia Institute of Technology
 ### Host: 
 Catherine Mériaux, East African Institute for Fundamental Research
 
+### Participants:
+[Attendee List](/KIVU/assets/files/AttendeeList_Kivu2024training.pdf)
+
 ### Tech Recommendations:
 For hands-on modeling, of geodetic data, it is helpful to bring a computer with:
 -  Matlab running with [Optimization toolbox](https://www.mathworks.com/products/optimization.html)
@@ -56,5 +59,6 @@ For hands-on modeling, of geodetic data, it is helpful to bring a computer with:
 ### Links to presentations
   - [Combined slides for Geodesy Overview, Details of GNSS, and Modeling Overview](/KIVU/assets/files/Deformation_Methods_2024.pdf)
   - [Kivu Rift Project Overview with Geodetic Component]() (soon to be uploaded)
-    - [Seismic Component]()
-    - [Magnetotelluric Component]()
+### GTDef input files
+  - [forward model](/KIVU/assets/files/Kivu_Example.in)
+  - [Inverse model](/KIVU/assets/files/Kivu_Example_wNoise.in)
