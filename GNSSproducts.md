@@ -45,7 +45,7 @@ As of August 2022, the project is operating 7 continuous GNSS stations along the
 
  1. Time series including rapid (within 2 days) and final products (available within 2 weeks) are available on each station's [status page](https://www.unavco.org/instrumentation/networks/status/pi/overview/IWAW) and processed by Central Washington University. Individual stations are searchable using their above name. Also avialable at the above site are the raw RINEX data files.
  2. Time series for only final products processed are available at the [University of Nevada-Reno](http://geodesy.unr.edu/PlugNPlayPortal.php).
- 1. High-Rate GNSS data, primarily useful for identifying data availability are available through the [Central Washington GPS Cockpit portal](http://www.geodesy.cwu.edu/realtime/data/) and are searchable using their above name.
+ 1. High-Rate GNSS data, primarily useful for identifying data availability are available through the [Central Washington GPS Cockpit portal](http://www.geodesy.org/realtime/data/) and are searchable using their above name.
  1. Time series and rates are further analyzed by Georgia Tech and are shown below. 
 
 ## The GNSS Velocities:
