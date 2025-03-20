@@ -19,17 +19,17 @@ sidebar:
 }
 .Bigbox {
     background-color:#bdb;
-    width: 80%;
-    padding: 5px 5px 5px 5px;
+    width: 450px;
+    padding: 25px 25px 25px 25px;
     float: left;
     overflow: auto;
     border-radius: 15px;
 }
 .box {
     background-color:#bdb;
-    width: 25%;
-    padding: 5px 5px 5px 5px;
-    float: right;
+    width: 120px;
+    padding: 3px 3px 3px 3px;
+    float: left;
     overflow: auto;
     border-radius: 15px;
 }
@@ -54,19 +54,19 @@ We utilize these results to calculate station velocities and displacement, and w
 ### Daily time series
 Below are daily positions and errors showing in a local reference frame determined removing the average daily positions from the 5 eastern-most stations.
 <div class="clear">
-   <div class="box"> <b>BNZA</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/BNZA_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/BNZA_TS_Common_sm.png" alt="BNZA" ></a></div>
-   <div class="box"> <b>BYAH</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/BYAH_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/BYAH_TS_Common_sm.png" alt="BYAH" ></a></div>
-   <div class="box"> <b>KANZ</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/KANZ_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/KANZ_TS_Common_sm.png" alt="KANZ" ></a></div>
-   <div class="box"> <b>NYBA</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/NYBA_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/NYBA_TS_Common_sm.png" alt="NYBA" ></a></div>
-   <div class="box"> <b>RUBO</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/RUBO_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/RUBO_TS_Common_sm.png" alt="RUBO" ></a></div>
-   <div class="box"> <b>IWAW</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/IWAW_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/IWAW_TS_Common_sm.png" alt="IWAW" ></a></div>
-   <div class="box"> <b>KMBR</b><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/KMBR_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/KMBR_TS_Common_sm.png" alt="KMBR" ></a></div>
+   <div class="box"> BNZA<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/BNZA_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/BNZA_TS_Common_sm.png" alt="BNZA" ></a></div>
+   <div class="box"> BYAH<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/BYAH_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/BYAH_TS_Common_sm.png" alt="BYAH" ></a></div>
+   <div class="box"> KANZ<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/KANZ_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/KANZ_TS_Common_sm.png" alt="KANZ" ></a></div>
+   <div class="box"> NYBA<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/NYBA_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/NYBA_TS_Common_sm.png" alt="NYBA" ></a></div>
+   <div class="box"> RUBO<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/RUBO_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/RUBO_TS_Common_sm.png" alt="RUBO" ></a></div>
+   <div class="box"> IWAW<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/IWAW_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/IWAW_TS_Common_sm.png" alt="IWAW" ></a></div>
+   <div class="box"> KMBR<br><a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/KMBR_TS_Common.png"><img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/TS/Common/small/KMBR_TS_Common_sm.png" alt="KMBR" ></a></div>
 </div>
 
 ### Velocity Map
 Velocity map is shown after removing the daily position average from 5 eastern stations.
 <div class="clear">
-   <div class="Bigbox"> <b>Kivu GNSS Network</b>
+   <div class="Bigbox"> <b>Kivu GNSS Network</b><br>
    <a href="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/KIVU_GNSS_common.png">
    <img src="https://raw.githubusercontent.com/avnewman/KivuGNSS/main/plots/KIVU_GNSS_common_sm.png" alt="KIVU GNSS velocities"></a></div>
 </div>
