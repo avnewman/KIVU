@@ -28,4 +28,4 @@ At the right is the originally proposed seismic, geodetic, and magnetotelluric i
 
 ---
 ## Publications
-* Murekezi, D., A. Newman, C. Wauthier, C. J. Ebinger, P. Lundgren, J. Gonzalez Santana, T. Niyitegeka, G. Nyandwi, T. Habiyakare, J. Uwiduhaye (2026), Characterization of Crustal Deformation During the May 2021 Nyiragongo Eruption Using InSAR and GNSS Data, *Geophysical Research Letters*, 53: e2025GL116073. https://doi.org/10.1029/2025GL116073
+* Murekezi, D., A. Newman, C. Wauthier, C. J. Ebinger, P. Lundgren, J. Gonzalez Santana, T. Niyitegeka, G. Nyandwi, T. Habiyakare, J. Uwiduhaye (2026), Characterization of Crustal Deformation During the May 2021 Nyiragongo Eruption Using InSAR and GNSS Data, *Geophysical Research Letters*, 53: e2025GL116073. <a  href="https://doi.org/10.1029/2025GL116073">https://doi.org/10.1029/2025GL116073</a> 
